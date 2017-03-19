@@ -89,6 +89,7 @@ namespace DownLoadClient
                 {
                     File.Delete(PathOfDounload);
                 }
+                // сама работа программы
                 try
                 {
                     timer.Start();
